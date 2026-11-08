@@ -67,6 +67,7 @@ Tools for transforming data into OMOP CDM:
 - [EHR2Trace](https://github.com/Yangxinyee/ehr2trace) - Converts EHR exports to OMOP CDM 5.4 and MEDS from one canonical layer, with row-level lineage and output validation
 - [dbt-synthea](https://github.com/OHDSI/dbt-synthea) - dbt project to convert Synthea synthetic data to OMOP CDM
 - [fhir2omop](https://github.com/lampadephoros/fhir2omop) - FHIR R4 to OMOP CDM v5.4 mapping spec and ELT runtime
+- [jpomop](https://github.com/kojikojikojikoji/jpomop) - Japanese DPC inpatient data to OMOP CDM v5.4
 
 
 #### Validation
